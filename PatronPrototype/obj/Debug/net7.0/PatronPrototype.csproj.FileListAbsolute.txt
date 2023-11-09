@@ -1,0 +1,14 @@
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\bin\Debug\net7.0\PatronPrototype.exe
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\bin\Debug\net7.0\PatronPrototype.deps.json
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\bin\Debug\net7.0\PatronPrototype.runtimeconfig.json
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\bin\Debug\net7.0\PatronPrototype.dll
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\bin\Debug\net7.0\PatronPrototype.pdb
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.AssemblyInfoInputs.cache
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.AssemblyInfo.cs
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.csproj.CoreCompileInputs.cache
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.dll
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\refint\PatronPrototype.dll
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.pdb
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\PatronPrototype.genruntimeconfig.cache
+C:\Users\daniel.barros\Documents\patron_prototype\PatronPrototype\obj\Debug\net7.0\ref\PatronPrototype.dll
